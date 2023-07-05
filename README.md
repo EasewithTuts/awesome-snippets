@@ -1,2 +1,2 @@
 # Awesome Snippets
-- [Simple Navbar using Tailwind](https://codespace.app/s/simple-navbar-tailwindcss-K9b684OeEv)
+- [Simple Navbar TailwindCSS](https://codespace.app/s/simple-navbar-tailwindcss-5xe732Qe7r)
